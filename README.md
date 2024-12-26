@@ -1,0 +1,1 @@
+In this project I developed web application. The aim of this project is to create a phone book. Users can add a new record, change or delete an existing record. You can search for anyone you want with the "search" section.
